@@ -1,16 +1,13 @@
-### Hi there 👋
+[Eglish version]()
 
-<!--
-**rsegretin/rsegretin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola Mundo 👋
 
-Here are some ideas to get you started:
+Escribo código hace mucho tiempo, desde el back hasta el front y todo lo del medio. Hice cosas bonitas y feas, trabajé en proyectos grandes y chicos, stacks y lenguajes hermosos y horribles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente encantado con NodeJS por sobre cualquier otro entorno 💚 y enseñando algo de eso en [ComIT](https://www.comunidadit.org/)
+
+Me pueden encontrar en
+* [Twitter 🐦](https://twitter.com/RicardoSegretin)
+* [LinkedIn 👥](https://www.linkedin.com/in/ricardosegretin/)
+
+Y si puedo ser de ayuda con algo, encantado.
