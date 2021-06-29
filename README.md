@@ -2,7 +2,7 @@
 
 ### Hola Mundo 👋
 
-Soy obrero del código hace bastante tiempo, desde el back hasta el front y todo lo del medio. Hice cosas bonitas y feas, trabajé en proyectos grandes y chicos, stacks y lenguajes hermosos y horribles.
+Soy obrero del código hace bastante tiempo, desde el back hasta el front y todo lo del medio. Hice cosas bonitas y feas, trabajé en proyectos grandes y chicos, stacks y lenguajes hermosos y horribles. Siempre con café o mate.
 
 Actualmente encantado con NodeJS por sobre cualquier otro entorno 💚 y enseñando algo de eso en [ComIT](https://www.comunidadit.org/)
 
