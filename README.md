@@ -1,4 +1,4 @@
-[English version](README_en.md)
+[Go to English version](README_en.md)
 
 ### Hola Mundo 👋
 
