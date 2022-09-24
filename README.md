@@ -1,6 +1,6 @@
 [Go to English version](README_en.md)
 
-### Hola Mundo 👋
+### Hola Mundo
 
 Soy obrero del código hace bastante tiempo, desde el back hasta el front y todo lo del medio. Hice cosas bonitas y feas, trabajé en proyectos grandes y chicos, stacks y lenguajes hermosos y horribles. Siempre con café ☕ o mate 🧉.
 
@@ -16,3 +16,5 @@ Me pueden encontrar en <br>
 </a>
 
 Y si puedo ser de ayuda con algo, encantado.
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark"/>
