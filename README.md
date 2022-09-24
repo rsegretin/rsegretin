@@ -17,4 +17,4 @@ Me pueden encontrar en <br>
 
 Y si puedo ser de ayuda con algo, encantado.
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-pitra&layout=compact&langs_count=7&theme=dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsegretin&layout=compact&langs_count=7&theme=dark"/>
