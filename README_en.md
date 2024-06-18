@@ -7,10 +7,6 @@ I've been coding for a (long) while, from the back to the front and everything i
 Currently loving NodeJS over every other environment 💚 and teaching some of it at [ComIT](https://www.comunidadit.org/)
 
 You can find me on<br>
-<a href="https://twitter.com/RicardoSegretin">
-<img alt="Twitter Ricardo Segretin" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /> Twitter
-</a>
-<br>
 <a href="https://www.linkedin.com/in/ricardosegretin/">
 <img alt="LinkedIn Ricardo Segretin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" /> LinkedIn
 </a>
